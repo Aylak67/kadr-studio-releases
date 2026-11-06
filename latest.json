@@ -1,10 +1,10 @@
 {
-  "version": "0.2.0",
-  "notes": "• Автообновления: программа сама предлагает обновиться до новой версии\n• Подключение к Claude Desktop в один клик (вкладка «ИИ») и команда для Claude Code\n• Проекты общие с Claude: изменения от Claude видны сразу\n• Рендер видео через Claude прямо на вашем ПК",
-  "url": "https://raw.githubusercontent.com/Aylak67/kadr-studio-releases/main/versions/0.2.0/kadr-core-0.2.0.tgz",
-  "sha256": "bed33b453ed407be68d43735a42460fae6d391e908e3fa17f5efc0dd94e72c5a",
-  "size": 3824392,
+  "version": "0.2.1",
+  "notes": "• Таймлайн: курсор больше не меняется при наведении на линию времени\n• Таймлайн: при перетаскивании линии времени больше не выделяется текст",
+  "url": "https://raw.githubusercontent.com/Aylak67/kadr-studio-releases/main/versions/0.2.1/kadr-core-0.2.1.tgz",
+  "sha256": "352b970b5b59af929a65ac5a6f29f782f2e1ab7d58f876c1bf1d138139fbc9e4",
+  "size": 3824563,
   "minBootstrap": "1.0.0",
   "installerUrl": "https://github.com/Aylak67/kadr-studio-releases/raw/main/Kadr-Studio-Setup.zip",
-  "publishedAt": "2026-11-05T18:17:58.927Z"
+  "publishedAt": "2026-11-06T14:30:23.854Z"
 }
