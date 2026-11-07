@@ -1,19 +1,21 @@
-# Kadr Studio — releases
+<p align="center"><img src="logo.png" width="112" alt="Kinora"></p>
 
-Motion graphics & video editor with Claude (MCP) built in.
+# Kinora
+
+Motion graphics & video editor with Claude (MCP) built in. *(formerly Kadr Studio)*
 
 ## Install (Windows)
 
-1. Download **[Kadr-Studio-Setup.zip](https://github.com/Aylak67/kadr-studio-releases/releases/latest/download/Kadr-Studio-Setup.zip)**
+1. Download **[Kinora-Setup.zip](https://github.com/Aylak67/kadr-studio-releases/raw/main/Kinora-Setup.zip)**
 2. Right click → "Extract all"
-3. Run `Install Kadr Studio.bat` — a "Kadr Studio" icon appears on the Desktop
+3. Run `Install Kinora.bat` — a "Kinora" icon appears on the Desktop
 
 Updates install automatically: the app offers "Update now" when a new version is out.
 
 ## Установка (Windows)
 
-1. Скачайте **[Kadr-Studio-Setup.zip](https://github.com/Aylak67/kadr-studio-releases/releases/latest/download/Kadr-Studio-Setup.zip)**
+1. Скачайте **[Kinora-Setup.zip](https://github.com/Aylak67/kadr-studio-releases/raw/main/Kinora-Setup.zip)**
 2. Правой кнопкой → «Извлечь все»
-3. Запустите `Install Kadr Studio.bat` — на рабочем столе появится значок «Kadr Studio»
+3. Запустите `Install Kinora.bat` — на рабочем столе появится значок «Kinora»
 
 Обновления приходят сами: программа предложит «Обновить сейчас», когда выйдет новая версия.
