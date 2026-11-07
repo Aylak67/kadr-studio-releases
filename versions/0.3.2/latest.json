@@ -1,0 +1,10 @@
+{
+  "version": "0.3.2",
+  "notes": "• Стартовая анимация теперь показывает KINORA вместо старого KADR (старые демо-проекты переименуются сами)",
+  "url": "https://raw.githubusercontent.com/Aylak67/kadr-studio-releases/main/versions/0.3.2/kadr-core-0.3.2.tgz",
+  "sha256": "3e9660ba315ff108bf9fdb7eb8d0853aa04388e2121450d5642ecaa1aab9e8b9",
+  "size": 3962676,
+  "minBootstrap": "1.0.0",
+  "installerUrl": "https://github.com/Aylak67/kadr-studio-releases/raw/main/Kinora-Setup.zip",
+  "publishedAt": "2026-11-07T13:33:11.118Z"
+}
