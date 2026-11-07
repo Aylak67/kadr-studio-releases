@@ -1,0 +1,10 @@
+{
+  "version": "0.3.3",
+  "notes": "• Новый эффект «Разбитое стекло»: трещины от точки удара, вспышка, осколки летят на камеру, крутятся и падают\n• Анимируйте «Прогресс» от 0 до 100 — можно разбить любой слой или целую сцену (через композицию)",
+  "url": "https://raw.githubusercontent.com/Aylak67/kadr-studio-releases/main/versions/0.3.3/kadr-core-0.3.3.tgz",
+  "sha256": "7a4c20ec07eb519a9ff5d1933cdbdff80ec09cbda629b800aceb8143f9127114",
+  "size": 3965575,
+  "minBootstrap": "1.0.0",
+  "installerUrl": "https://github.com/Aylak67/kadr-studio-releases/raw/main/Kinora-Setup.zip",
+  "publishedAt": "2026-11-07T14:12:35.513Z"
+}
