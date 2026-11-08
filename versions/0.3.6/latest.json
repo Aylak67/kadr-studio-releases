@@ -1,0 +1,10 @@
+{
+  "version": "0.3.6",
+  "notes": "• Вкладка «ИИ» → «Проверить подключение»: если Claude не видит Kinora, проверка покажет, в чём дело\n  (файл настроек Claude, запуск Kinora как это делает Claude, ошибки из журнала Claude)\n• Кнопка «Скопировать отчёт» — отправьте его в чат, чтобы быстро разобраться",
+  "url": "https://raw.githubusercontent.com/Aylak67/kadr-studio-releases/main/versions/0.3.6/kadr-core-0.3.6.tgz",
+  "sha256": "a41cf5664efa63cc36fedb6d55bd8d5810197940e0540e698ac453d2917d8633",
+  "size": 3994263,
+  "minBootstrap": "1.0.0",
+  "installerUrl": "https://github.com/Aylak67/kadr-studio-releases/raw/main/Kinora-Setup.zip",
+  "publishedAt": "2026-11-08T12:34:43.507Z"
+}
